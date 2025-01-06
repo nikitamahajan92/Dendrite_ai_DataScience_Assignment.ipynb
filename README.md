@@ -12,6 +12,7 @@ The objective of this project is to build a machine learning pipeline that handl
 
 ## Libraries Used
 
+- **Python 3.x**
 - **Scikit-learn**: For building and training the machine learning model.
 - **Pandas**: For data manipulation and handling.
 - **NumPy**: For numerical computations and matrix operations.
@@ -23,14 +24,6 @@ The objective of this project is to build a machine learning pipeline that handl
 - Feature engineering methods for creating new features that could enhance model accuracy.
 - Model training using popular algorithms like **RandomForestClassifier**, **RandomForestRegressor**,**Logistic Regression**, **GBTClassifier**, **GBTRegressor**, **LinearRegression**, **LogisticRegression**, **RidgeRegression**, **LassoRegression**, **ElasticNetRegression**, **XGBoost**, **DecisionTreeRegressor**, **DecisionTreeClassifier**, **SVM**, **SGD**, **KNN**, **extra_random_trees**, **neural_network**.
 - Hyperparameter tuning using GridSearchCV to optimize model performance.
-
-## Technologies Used
-
-- **Python 3.x**
-- **Scikit-learn**: For building the machine learning pipeline.
-- **Pandas**: For data manipulation and analysis.
-- **NumPy**: For numerical operations.
-
 
 ## Acknowledgments
 
